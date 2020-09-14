@@ -1,5 +1,16 @@
 # code
 This code shows all incremental strings consisting of x number the user enters and those strings from 1 to a number that the user can enter as well.
+
+
+
+
+
+
+
+
+
+
+
 void fun4(int n, int kk)
 {
 	if (kk <= n && kk != 0 && n != 0) {  //condition to do function
